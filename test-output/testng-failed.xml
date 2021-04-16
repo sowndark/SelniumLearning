@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="E2E.E2EFrameWork.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="TextTest(failed)">
+    <classes>
+      <class name="E2E.E2EFrameWork.TextChecker">
+        <methods>
+          <include name="Text"/>
+          <include name="browserClose"/>
+          <include name="initial"/>
+        </methods>
+      </class> <!-- E2E.E2EFrameWork.TextChecker -->
+    </classes>
+  </test> <!-- TextTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

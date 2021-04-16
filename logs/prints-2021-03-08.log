@@ -1,0 +1,7 @@
+12:38:50.511 [TestNG-tests-1] INFO  E2E.E2EFrameWork.Login - URL opened
+12:39:02.932 [TestNG-tests-1] INFO  E2E.E2EFrameWork.Login - logined Sucessfully
+12:39:05.015 [TestNG-tests-1] INFO  E2E.E2EFrameWork.Login - URL opened
+12:39:11.071 [TestNG-tests-1] INFO  E2E.E2EFrameWork.Login - logined Sucessfully
+12:39:35.430 [TestNG-tests-2] INFO  E2E.E2EFrameWork.TextChecker - Driver Intialized
+12:39:35.430 [TestNG-tests-1] INFO  E2E.E2EFrameWork.Login - Driver Intialized
+12:39:49.083 [TestNG-tests-1] INFO  E2E.E2EFrameWork.Login - URL opened
