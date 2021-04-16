@@ -45,6 +45,8 @@ public class LoginTest extends Base {
 //		validateLogedInPageFactor validate = new validateLogedInPageFactor(driver);
 //		Assert.assertTrue(validate.serchboxFound().isDisplayed());
 
+		System.out.println("We haven't used this method");
+
 	}
 
 	@And("^quit the browser$")
